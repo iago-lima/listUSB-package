@@ -21,3 +21,5 @@ The package will be installed in /opt/listusb, to use the tool run the following
 046d:c246 (bus 2, device 2) path: 2<br />
 1d6b:0002 (bus 2, device 1)<br />
 
+The source code from the tool it's available [here](https://github.com/sergioprado/listusb)
+
