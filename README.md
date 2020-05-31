@@ -1,7 +1,7 @@
 ## listUSB-package
 ### A Debian package from a simple tool to list USB devices
 
-In this repository, we have the source code used to generate this package. If you want to regenerate the .deb package, use the command: 
+In this repository, we have the source files used to generate this package. If you want to regenerate the .deb package, use the command: 
 
 `dpkg -b listusb-debian-package` and the output is this file listusb-debian-package.deb
 
