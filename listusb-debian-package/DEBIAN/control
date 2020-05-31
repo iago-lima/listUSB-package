@@ -1,0 +1,10 @@
+Package: listusb
+Version: 1
+Architecture: amd64
+Maintainer: Iago O. Lima <iagoliveiralima3@gmail.com>
+Instaled-Size: 19
+Depends:libusb-1.0-0-dev 
+Section: games
+Priority: optional
+Description: An implementation for list the USB devices using the libusb library.
+
